@@ -1,7 +1,7 @@
 ## Hi stranger! 👋
 
 This is OneSoftNet (OSN). We're a software foundation that focuses on open source development.
-Are you interested? Email at [team@onesoftnet.eu.org] for more information!
+Are you interested? Email at team@onesoftnet.eu.org for more information!
 
 **Contributing** - is the easiest way to get involved. You can fork one of the repositories and then start making changes. Once, you're hapoy with them, you can create a pull request. The projects maintainers will review your changes and if everything looks OK then it will be merged.
 
